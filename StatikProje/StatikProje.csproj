@@ -200,11 +200,11 @@
     <Content Include="web\webfonts\fa-solid-900.ttf" />
     <Content Include="web\webfonts\fa-solid-900.woff" />
     <Content Include="web\webfonts\fa-solid-900.woff2" />
+    <Content Include="Views\Default\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\Default\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
